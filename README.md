@@ -13,6 +13,7 @@ Claims Analysis:
 
 Conducted an in-depth claims analysis, calculating key statistics such as average claim amount and paid amount.
 Visualized the number of claims by claim status to understand the claim approval and denial rates.
+
 Fraud Detection:
 
 Utilized the Isolation Forest algorithm from Scikit-learn to build a fraud detection model.
